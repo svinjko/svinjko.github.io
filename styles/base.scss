@@ -1,0 +1,43 @@
+---
+---
+@import "constants";
+@import "bourbon/bourbon";
+@import "base/base";
+@import "neat/neat";
+
+html {
+	> body {
+		font-family: $helvetica;
+		padding: 0;
+		margin: 0;
+
+		> header {
+			color: $secondary-pen;
+			background-color: $secondary-paper;
+			display: block;
+			margin: 0;
+			width: 100vw;
+			height: 2em;
+			padding: 0.5em;
+
+			> * {
+				display: inline-block;
+				height: 1.8em;
+				line-height: 1.8em;
+				vertical-align: middle;
+				padding-top: 0;
+				padding-bottom: 0;
+				margin-top: 0;
+				margin-bottom: 0;
+			}
+		}
+
+		> main {
+			color: $primary-pen;
+			background-color: $primary-paper;
+			display: block;
+			margin: 0;
+			padding: 0.5em;
+		}
+	}
+}
