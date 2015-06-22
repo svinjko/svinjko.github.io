@@ -8,7 +8,9 @@
   <body>
     <div id="main">
       <div class="nav">
-        <a href="{{site.url}}/">Home</a>
+        {% for item in site.menu %}  
+        <a href="{{ item.url }}/">{{ item.title }}</a>
+        {% endfor %}
       </div>
       <br />
       <h1>{{site.title}}</h1>
