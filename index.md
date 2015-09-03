@@ -3,7 +3,11 @@ layout: default
 title: Home
 ---
 
-Selina is a silly sausage
+Jam on toast amirite?
 
 
-And lucas doesn't know what a galactic plane is
+
+
+
+
+Yes, yes I am
