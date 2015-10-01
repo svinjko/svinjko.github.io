@@ -1,15 +1,10 @@
 ---
 layout: default
-title: Home
+title: Bantar
 ---
 
-Jam on toast amirite?
+Linea is a silly sausage who likes to do crazy things.
 
-Acutally no.
-Marmite for best toast topping 2015.
-
-Also Benji says hi.
-
-> Calum Walker is a Scottish wanker
+> Ella is ginger
 >
 > -- <cite>Sam Needle</cite>, 2015
