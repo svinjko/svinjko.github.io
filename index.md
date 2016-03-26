@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bantar
+title: Work in Progress
 ---
 
 Banter on Toast
