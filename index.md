@@ -3,4 +3,4 @@ layout: default
 title: Work in Progress
 ---
 
-Banter on Toast
+This is a work in progress.
